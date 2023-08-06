@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1056.73 1289.16">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #e23e57;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-4, .cls-6, .cls-7 {
+        stroke: #e23e57;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 60px;
+      }
+
+      .cls-8, .cls-5 {
+        font-family: VALORANT-Regular, VALORANT;
+      }
+
+      .cls-4 {
+        stroke-width: .5px;
+      }
+
+      .cls-9 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-6 {
+        stroke-width: .25px;
+      }
+
+      .cls-7 {
+        stroke-width: .75px;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(983.23 204.57) scale(.78 1)"><tspan x="0" y="0">00</tspan></text>
+  <line class="cls-2" x1="961.23" y1="147.57" x2="1041.23" y2="147.57"/>
+  <rect class="cls-2" x="224.73" y="731.57" width="7" height="7"/>
+  <rect class="cls-2" x="1032.73" y="243.57" width="8" height="8"/>
+  <rect class="cls-2" x="220.73" y="214.57" width="8" height="8"/>
+  <rect class="cls-2" x="218.73" y="280.57" width="12" height="12"/>
+  <text class="cls-3" transform="translate(520.89 604.4)"><tspan class="cls-9" x="0" y="0">#</tspan><tspan class="cls-8" x="29.82" y="0">DEV</tspan></text>
+  <rect class="cls-1" x="691.23" y="562.07" width="9" height="9"/>
+  <rect class="cls-1" x="1029.23" y="475.07" width="16" height="16"/>
+  <line class="cls-2" x1="434.23" y1="432.07" x2="1041.89" y2="432.07"/>
+  <line class="cls-2" x1="1005.89" y1="37.57" x2="1017.25" y2="34.1"/>
+  <line class="cls-4" x1="228.73" y1="521.74" x2="231.73" y2="530.07"/>
+  <line class="cls-6" x1="899.73" y1="660.57" x2="889.73" y2="668.57"/>
+  <line class="cls-6" x1="597.89" y1="738.57" x2="606.23" y2="748.07"/>
+  <line class="cls-7" x1="809.56" y1="218.57" x2="809.56" y2="230.07"/>
+  <line class="cls-7" x1="621.23" y1="356.74" x2="629.56" y2="356.74"/>
+  <line class="cls-7" x1="1001.23" y1="641.74" x2="1000.73" y2="651.57"/>
+  <line class="cls-7" x1="277.73" y1="858.57" x2="287.89" y2="858.57"/>
+  <line class="cls-7" x1="224.73" y1="890.07" x2="231.73" y2="903.4"/>
+  <line class="cls-7" x1="644.73" y1="836.57" x2="652.73" y2="826.57"/>
+  <line class="cls-6" x1="464.43" y1="132.78" x2="463.4" y2="145.38"/>
+  <line class="cls-7" x1="426.63" y1="234.61" x2="439.38" y2="233.4"/>
+  <line class="cls-7" x1="606.23" y1="628.4" x2="621.23" y2="628.4"/>
+</svg>
