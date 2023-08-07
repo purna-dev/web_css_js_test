@@ -73,8 +73,8 @@ menu.addEventListener('mouseleave', (dets) => {
 
 document.querySelector('.menu').addEventListener('mouseenter',()=>{
     // document.querySelector('.mousecir').style.display ='none';
-    document.querySelector('.mousecir').style.width ='60px';
-    document.querySelector('.mousecir').style.height ='60px';
+    document.querySelector('.mousecir').style.width ='20px';
+    document.querySelector('.mousecir').style.height ='20px';
     document.querySelector('.mousecir').style.margin ='0.1rem 0.1rem';
 
     document.body.style.cursor = 'default'
@@ -93,8 +93,8 @@ document.querySelector('.menu').addEventListener('mouseleave',()=>{
 
 document.querySelector('.icon').addEventListener('mouseenter',()=>{
     // document.querySelector('.mousecir').style.display ='none';
-    document.querySelector('.mousecir').style.width ='60px';
-    document.querySelector('.mousecir').style.height ='60px';
+    document.querySelector('.mousecir').style.width ='20px';
+    document.querySelector('.mousecir').style.height ='20px';
     document.body.style.cursor = 'default';
 
     // document.querySelector('.mousecir').style.transform =`translate(-50%,50%)`;
@@ -305,4 +305,11 @@ paths.forEach((val)=>{
 
 // fixed();
 
+//art3
+gsap.fromTo('.page1 .art3',{
+ opacity:0
+},{
+    opacity:0.5,
+    duration:1
+})
 
